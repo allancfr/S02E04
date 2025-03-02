@@ -1,2 +1,2 @@
 # S02E04
- Calculadora Aritmética
+ Semana 02 - Exercício 04 - Calculadora Aritmética
